@@ -1,2 +1,2 @@
 Feature: a new  onez
-    hellow orld copy pasta
+    hellow orld copy pastas
