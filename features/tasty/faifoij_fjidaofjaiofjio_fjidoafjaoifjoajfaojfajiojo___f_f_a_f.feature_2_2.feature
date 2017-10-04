@@ -2,4 +2,8 @@ Feature: goadii
   jiojoijoi
   jijojoi
   jijojio
-  jijoijioijoijioj
+  jijoijioijoijiojijo
+  
+  
+  
+  jiojiojoi
