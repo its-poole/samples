@@ -1,1 +1,1 @@
-invalid feature file
+Feature: i lvoe you
