@@ -3,4 +3,5 @@ Feature: a new  oneziii
     Scenario: name
       Given I am home
       And the the card should be returned
-      And I am home
+      And I am homefidisofijd
+      And I should be served a coffee
