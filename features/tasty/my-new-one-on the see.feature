@@ -1,5 +1,5 @@
 @newworldorder @scenariotag @pettle-brook
-Feature: Hello
+Feature: Hello-world
   <Some interesting description here>
 
   @scenariotag @newworldorder @pettle-brook
