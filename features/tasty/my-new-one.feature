@@ -1,5 +1,5 @@
 @newworldorder @scenariotag
-Feature: hello
+Feature: Hello
   <Some interesting description here>
 
   @scenariotag @newworldorder
