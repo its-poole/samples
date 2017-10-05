@@ -1,4 +1,4 @@
-@newworldorder @scenariotag
+@newworldorder @scenariotag @pettle-brook
 Feature: Hello
   <Some interesting description here>
 
