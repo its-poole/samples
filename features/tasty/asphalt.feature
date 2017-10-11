@@ -4,4 +4,4 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-jioj
+Given
