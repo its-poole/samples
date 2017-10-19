@@ -1,5 +1,5 @@
 Feature: Refund item
-
+  @thegoldenstatewarriors @offenseively
   Scenario: Jeff returns a faulty microwave
     Given Jeff has bought a microwave for $100
     And he has a receipt
