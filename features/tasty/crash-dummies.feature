@@ -4,4 +4,4 @@ Feature:
   @alfaction @thegoldenstatewarriors
   Scenario: copasetic
     <Some interesting sceniiario steps here>
-    Given 
+    Given there is a boy named George Lopez
