@@ -1,2 +1,2 @@
 Feature:
- Scenario: colon
+ Scenario: colonii
