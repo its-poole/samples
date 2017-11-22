@@ -1,4 +1,4 @@
-@tag @hitther @hello @trailblazer @antwan-wimberly
+@tag @hitther @hello @trailblazer @antwan
 Feature: hi there
   Scenario: patrinize
     Given I am home
