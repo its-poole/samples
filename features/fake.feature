@@ -9,3 +9,4 @@ Feature:
     But she is not here
     But she goes away for 4 hours
     But she goes away for 4 hours
+    And she goes away for 4 hours
