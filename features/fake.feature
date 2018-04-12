@@ -8,3 +8,4 @@ Feature:
     And there are 1 coffees left in the machine home
     But she is not here
     But she goes away for 4 hours
+    But she goes away for 4 hours
